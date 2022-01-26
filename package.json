@@ -1,0 +1,26 @@
+{
+  "name": "pokemon_game",
+  "version": "1.0.0",
+  "description": "Pokemon console game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingnolds/Pokemon_game.git"
+  },
+  "author": "Spencer Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingnolds/Pokemon_game/issues"
+  },
+  "homepage": "https://github.com/kingnolds/Pokemon_game#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
